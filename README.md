@@ -5,9 +5,9 @@ Contirbutors: Tyler Gehbauer
 
 ## **Overview and Origin** 
 -----
-````
+
 Venmo is a streamlined payment service that offers easy peer to peer payments. This service allows for 2 people to exchange paperless money between themselves using their phones (or internet). Originally, Venmo was designed to be a message-based payment platform. It later evolved to include a social aspect where you can see your contact’s payments. This aspect is what gave Venmo popularity and made it mainstream. 
-````
+
 ## *The Founders and the Origin:*
 
 >Venmo was founded in 2009 by Andrew Kortina and Irqam Magdon-Ismail. According to medium.com, “The idea came to them when Magdon-Ismail went to New York City to visit Kortina for the weekend and forgot his wallet. Kortina being the good friend that he is, covered Magdon-Ismail’s expenses for the weekend. When Magdon-Ismail was trying to pay back Kortina by mailing a check, they realized there must be a more streamline way to pay a friend.
@@ -69,7 +69,7 @@ One of the biggest competitors to Venmo is Zelle. Zelle is basically a money tra
 
 >Lastly, this graph shows you how each company compares to each other’s total payment volume on a yearly basis (via businessofapps.com). Clearly, you can see how Zelle trumps both companies, however as previously discussed, Cash App and Venmo are usually used for smaller payments. However, it seems like Venmo is trending in the right direction and will likely conitue to do so.
 
-![venmograph](venmograph.png)
+![venmograph](Venmograph.jpeg)
 
 In conclusion, I believe Venmo will continue to outperform Cash App, especially with their most recent feature that allows users to buy and sell cryptocurrencies. This many even result in Venmo becoming a serious competitor to Zelle. Maybe some of my recommendations to Venmo will make this outcome inevitable. 
 
